@@ -1,1 +1,0 @@
-/Users/rodwynmoreno/Sites/magento1406/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

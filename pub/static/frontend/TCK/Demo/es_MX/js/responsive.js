@@ -1,1 +1,0 @@
-/Users/rodwynmoreno/Sites/magento1406/vendor/magento/theme-frontend-blank/web/js/responsive.js
