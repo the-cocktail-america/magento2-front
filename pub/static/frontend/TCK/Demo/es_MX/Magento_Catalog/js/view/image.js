@@ -1,0 +1,1 @@
+/Users/rodwynmoreno/Sites/magento1406/vendor/magento/module-catalog/view/frontend/web/js/view/image.js
