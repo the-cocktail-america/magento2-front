@@ -42,6 +42,3 @@
 !/var/package/*.xml
 
 .DS_Store
-
-/pub/static/*
-!/pub/static/.htaccess
