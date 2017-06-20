@@ -41,6 +41,16 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    demo: {
+        area: 'frontend',
+        name: 'TCK/Demo',
+        locale: 'es_MX',
+        files: [
+            'css/styles-m',
+            'css/styles-l'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
