@@ -47,3 +47,5 @@
 !/pub/static/.htaccess
 
 node_modules
+
+/app/etc/env.php
