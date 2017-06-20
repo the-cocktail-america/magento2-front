@@ -49,3 +49,5 @@
 node_modules
 
 /app/etc/env.php
+
+/lib/*
