@@ -45,3 +45,5 @@
 
 /pub/static/*
 !/pub/static/.htaccess
+
+node_modules
