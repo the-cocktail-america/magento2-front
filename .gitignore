@@ -43,7 +43,7 @@
 
 .DS_Store
 
-/pub/static/*
+/pub/*
 !/pub/static/.htaccess
 
 node_modules
